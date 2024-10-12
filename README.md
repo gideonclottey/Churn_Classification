@@ -1,4 +1,3 @@
-# Churn_Classification
 # Telco Churn Classification Project
 ## Overview
 In the ever-evolving telecommunication sector, retaining customers and accurately forecasting churn is essential for sustaining growth and profitability. This project seeks to harness advanced classification models to deliver a thorough understanding of customer behaviour for a telecommunication company. The project focuses on:
